@@ -1,3 +1,11 @@
+#### Vergic version
+This is a forked version of "emoji-mart" with the following changes/fixes:
+
+ - Support for react 17 (from https://github.com/h6ak/emoji-mart/tree/support_react17)
+ - Support building in Windows cmd env (use "cross-env" to set BABEL_ENV in build scripts)
+
+---
+
 <div align="center">
   <br><b>Emoji Mart</b> is a Slack-like customizable<br>emoji picker component for React
   <br><a href="https://missive.github.io/emoji-mart">Demo</a> • <a href="https://github.com/missive/emoji-mart/blob/master/CHANGELOG.md">Changelog</a>
